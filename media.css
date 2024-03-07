@@ -1,0 +1,42 @@
+@media only screen and (max-width: 600px) {
+    #nav{
+        flex-direction: column;
+        
+    }
+    #nav-heading{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    #nav_menu ul{
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+    /* nav resp end  */
+
+    #cont_hero{
+        padding: 20px;
+    }
+    #explore{
+        font-size: 25px;
+    }
+    #explore_p{
+        padding: 6px;
+    }
+   .frm_bg{
+    margin: 6px;
+   }
+
+
+   #pop_div{
+  flex-direction: column;
+  }
+  #popular_img{
+    padding: 15px;
+  }
+
+
+  
+}
