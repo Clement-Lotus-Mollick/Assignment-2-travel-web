@@ -208,3 +208,214 @@ line-height: normal;
     border-radius: 16px;
 
   }
+
+  #bg{
+    background-image: url('./Images/maldives.png');
+    background-repeat: no-repeat;
+    width: 573px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+  }
+  #bg2{
+    background-image: url('./Images/indon.png');
+    background-repeat: no-repeat;
+    width: 573px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+  }
+
+  #flex{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  #flex2{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  #flex3{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 10px 0;
+  }
+
+   #bg3{
+    background-image: url('./Images/sri.png');
+    background-repeat: no-repeat;
+    width: 374px;
+height: 286px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+  }
+   #bg4{
+    background-image: url('./Images/northam.png');
+    background-repeat: no-repeat;
+    width: 474px;
+height: 286px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+background-position: center;
+  }
+   #bg5{
+    background-image: url('./Images/ksmir.png');
+    background-repeat: no-repeat;
+    width: 274px;
+    height: 286px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+  }
+   #bg6{
+    background-image: url('./Images/Rectangle\ 11.png');
+    background-repeat: no-repeat;
+    width: 473px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+  }
+   #bg7{
+    background-image: url('./Images/Rectangle\ 10.png');
+    background-repeat: no-repeat;
+    width: 673px;
+height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+  }
+
+
+
+
+  #wcu_cont{
+    max-width: 992px;
+    margin: auto;
+  }
+  #wcu_heading{
+    text-align: center;
+  }
+  #wcu_heading h1{
+    font-size: 40px;
+    font-weight:800;
+  }
+  #wcu_heading p{
+    max-width: 643px;
+    margin: auto;
+  }
+
+  #card_bg{
+    background: rgba(251, 181, 99, 0.05);
+    padding: 15px;
+  }
+  #card_bg2{
+    background: rgba(41, 206, 246, 0.05);
+    padding: 15px;
+  }
+  #card_flex{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+  }
+  #card_bg3{
+    background: rgba(233, 68, 68, 0.05);
+    padding-inline-start: 15px;
+  }
+  #card_center{
+    max-width: 573px;
+    margin: 10px auto;
+  }
+  /* end  */
+
+
+  #txt, #mil{
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+margin: 5px;
+  }
+  #frm_bdr{
+    border: 2px solid orangered;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  #sub_btn{
+    color: white;
+    width: 393px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+border: none;
+  }
+
+  #flex_form{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+  }
+
+  .position{
+    color: white;
+    width: 324px;
+height: 120px;
+transform: rotate(-19.628deg);
+flex-shrink: 0;
+border-radius: 16px;
+background: #FF5400;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+position: relative;
+top: -170px;
+float: right;
+}
+
+
